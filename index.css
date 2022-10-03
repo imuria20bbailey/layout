@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+h1{
+    text-align: center;
+}
+#title{
+    padding: 5px;
+}
+
+
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 80px;
+    background-color: black;
+    margin-left: 600px;
+
+}
+body{
+    background-color: rgb(226, 200, 189);
+}
